@@ -1,0 +1,17 @@
+Unicast
+
+	Point to Point connection between systems in a network. Examples includes user browsing a website, email transmission, file transfers etc. 
+
+Local Link unicast addresses
+	Self contained networks. No redirection by the router. IPv6 range fe80::/10 is reserved for this. The first 10 bits indicate prefix, next 64 bits are all set to 0. The next 64 bits identifies the interface which is unique to the client in the network.
+
+
+Unique local unicast 
+	Can be routed through router but assigned internally (Big companies). 
+
+Global unicast
+	TO send message worldwide. 
+
+
+
+https://www.ionos.com/digitalguide/server/know-how/unicast/

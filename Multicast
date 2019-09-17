@@ -1,0 +1,7 @@
+Multicast Routing (IP multicast)
+
+	Point-to-multipoint. Enables sender to transmit IP data streams to many recipients simultaneously in a single step. 
+
+	Differs from broadcast in that it does not transfer to all participents of the network. It only sends to registered participants of a multicast group. The sender transmits to the multicast address not to indiuvidual participants. In the Internet Protocol version IPv4, the address range between 224.0.0.0 and 239.255.255.255 is assigned for this purpose, while the prefix FF00::/8 is used for multicast addresses in IPv6. 
+
+	Used in video streaming

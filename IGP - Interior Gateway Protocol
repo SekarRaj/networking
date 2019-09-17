@@ -1,0 +1,13 @@
+Interior Gateway Protocol
+	Routing technology within the AS
+
+[Link-State Routing Protocol](https://www.metaswitch.com/knowledge-center/reference/what-is-intermediate-system-to-intermediate-system-isis)
+	Routers exchnage routing topology information with their nearest neighbours. The state is routed thoughout the AS and hence every router has picture of the complete topology. This state information is used to calculate the end-to-end path using variant of Dijkstra algorithm.  
+
+
+	Cons: Lack of scalability due to storing topology state in every router.
+
+Open Shortest Path First (OSPF) 
+
+Intermediate System - Intermediate System (IS-IS)
+	Used to distribute routing 
