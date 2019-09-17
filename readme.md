@@ -1,4 +1,4 @@
-### Network related terms and logic
+# Network related terms and logic
 
 
 ## Autonomous Systems (AS)
