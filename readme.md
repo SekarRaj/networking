@@ -1,4 +1,4 @@
-### 	Network related terms and logic
+###Network related terms and logic
 
 
 ## Autonomous Systems (AS)
@@ -17,8 +17,9 @@
 
 Reserved IPv4 addresses
 =======================
-224.0.0.0/4 (Multicast)
-255.255.255.255/32 (Broadcast)
-127.0.0.0/8 (Loopback)
-169.254.0.0/16 (Link-local)
-168.63.129.16/32 (Internal DNS)
+
+224.0.0.0/4 (Multicast)\
+255.255.255.255/32 (Broadcast)\
+127.0.0.0/8 (Loopback)\
+169.254.0.0/16 (Link-local)\
+168.63.129.16/32 (Internal DNS)\
