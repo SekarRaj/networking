@@ -13,7 +13,8 @@
 ## Routing Information Protocol (RIP)
 	An IGP, based on Bellman-Ford algorithm. [RFC-2453] (https://tools.ietf.org/html/rfc2453)
 
-
+## Border Gateway Protocol
+https://isbgpsafeyet.com/#what-is-rpki
 
 Reserved IPv4 addresses
 =======================
